@@ -10,3 +10,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+# Mock Up Dashboard Provoded
+![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/c2432fff-8956-4ebe-b947-af1c9a3fdbab)
+
+
+
